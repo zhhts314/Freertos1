@@ -100,7 +100,8 @@ void led1_task(void *pvParameters)
         vTaskDelay(800);
 
         printf("xin zeng dai madif");
-        printf("xin zeng dai ma di san ci")""
+        printf("xin zeng dai ma di san ci");
+        printf("xin zeng dai ma di si ci");
     }
 }
 
